@@ -41,6 +41,9 @@ public class PieceObject {
         return null;
     }
 
+    public void check(){
+
+    }
 
     public ArrayList<String> moveBishop(String startingPos) {
         ArrayList<String> validMoves = new ArrayList<>();
